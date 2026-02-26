@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmroFouda
 - 👀 I’m interested in DevSecOps and automation
-- 🌱 I’m currently learning DevSecOps in NTI
+- 🌱 I’m currently working as Cloud DevOps Engineer @Tuba.
 - 💞️ I’m looking to collaborate on DevOps projects
 - 📫 How to reach me : +201017041450
 
